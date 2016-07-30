@@ -1,0 +1,2 @@
+# IdZLib_bug
+Indy10和之前所有版本中发生在CompressStream函数中的一个BUG测试，BCB源码
